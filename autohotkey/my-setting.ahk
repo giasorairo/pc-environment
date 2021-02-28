@@ -5,7 +5,7 @@
 !m::Send,{Down}
 
 ; control key + 他のkey でのショートカット
-^j::Send,^{Left}
+;^j::Send,^{Left}
 ^k::Send,^{Right}
 ^i::Send,^{Up}
 ^m::Send,^{Down}
