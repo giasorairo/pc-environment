@@ -18,7 +18,8 @@
 
 ^q::Send,{Backspace}
 
-^Space::Send,{Enter}
+;controlKey + spaceKeyは vscodeのインテリセンス表示で使うのでコメントアウト
+;^Space::Send,{Enter}
 
 ; windows key + space key で全角/半角切替え
 #Space::Send,{vkF3sc029}
